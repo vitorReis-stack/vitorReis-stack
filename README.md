@@ -43,12 +43,6 @@
 </div>
 
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/output/github-contribution-grid-snake-dark.svg">
