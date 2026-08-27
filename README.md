@@ -1,18 +1,54 @@
-_ Hi, I’m @vitorReis-stack
+<h2 data-importer="text" align="left">Olá👋! Meu nome é Vitor</h2>
 
-_  I’m interested in software engineering, open-source projects, and full-stack development.
+###
 
-_  I’m currently learning Java, Front-end and Back-end development, HTML, CSS, and JavaScript.
+<br clear="both">
 
-_  I’m looking to collaborate on innovative tech projects and exploring new programming languages.
+<p data-importer="text" align="left">Sou estudante de Engenharia de Software e desenvolvedor de software em início de carreira, com foco em Inteligência Artificial Generativa, automação de processos, desenvolvimento web e integração de APIs.<br><br>Atualmente, desenvolvo soluções voltadas à otimização de processos e negócios, incluindo chatbots inteligentes, automações, ferramentas internas e integrações entre sistemas.<br><br>Tenho interesse em transformar problemas reais em soluções práticas utilizando tecnologia, sempre buscando aprender, evoluir tecnicamente e criar projetos que gerem valor.</p>
 
-_  How to reach me via LinkedIn or email at vitoremmanuel04@icloud.com
+###
 
-_  Pronouns: He/Him.
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="vitoremmanuel04@icloud.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/vitoremmanue" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-_  Fun fact: I can solve a Rubik's cube in under a minute!
+###
 
-<!---
-vitorReis-stack/vitorReis-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/snake-output/snake.svg" alt="Snake animation" />
+
+###
