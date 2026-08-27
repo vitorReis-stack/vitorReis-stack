@@ -17,16 +17,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -44,6 +34,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
+###
+
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorReis-stack/vitorReis-stack/output/github-contribution-grid-snake-dark.svg">
